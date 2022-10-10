@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @RafaelTechio
+- 👀 I’m interested in Web development
+- 🌱 I’m currently learning Node.js
+- 📫 You can reach me on <a href="https://www.linkedin.com/in/rafael-techio/">linkedin</a>
